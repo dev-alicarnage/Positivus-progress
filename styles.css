@@ -166,8 +166,10 @@ justify-content: space-between;
     /* display: flex; */
     position: fixed;
     top: 10px;
+    left: 80px;
+    right: 80px;
     z-index: 1;
-    /* margin: 0 auto; */
+    margin: 0 auto;
 }
 
 .notransition{
